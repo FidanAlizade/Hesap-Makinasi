@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hesap Makinasi</string>
+    <string name="enter_number1">enter first</string>
+    <string name="enter_number2">enter second</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="free" />
+</resources>
